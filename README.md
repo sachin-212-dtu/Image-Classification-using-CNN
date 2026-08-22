@@ -372,10 +372,6 @@ Possible improvements for the project include:
 
 **Sachin Kumar**
 
-GitHub: [Add your GitHub profile link here](https://github.com/)
-
-LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/)
-
 ---
 
 ## ⭐ If You Found This Project Useful
